@@ -26,13 +26,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universi
 ---
 
 ## 📚 Projetos em desenvolvimento
-- **Sistema de gestão de festas de casamento** 🎉  
-  - Cadastro de festas, casais e convidados  
-  - Serviços e profissionais  
-  - Orçamentos e pagamentos  
-  - Listas de presentes  
-  - Relatórios e controle de permissões  
-
 - **WEB Site sobre perfumes** 💙  
   - Sistema de cadastro e login  
   - Carrinho de compras
