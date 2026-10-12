@@ -1,7 +1,7 @@
 # 🎓 Kauã Moreira dos Santos
 
 Bem-vindo ao meu perfil no GitHub! 🚀  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**, atualmente no **2º semestre**, e atualmente procuro uma nova oportunidade no mercado de trabalho.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **Centro Universitário Senac**, atualmente no **5º semestre**, e atualmente procuro uma nova oportunidade no mercado de trabalho.
 ---
 
 ## 📌 Sobre mim
